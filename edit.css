@@ -1,0 +1,151 @@
+.show1{
+    background-color: lightblue ;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 70%;
+}
+
+#name{
+    font-style: oblique;
+    font-size: 40px;
+    margin-left: 100px;
+    margin-bottom: 0;
+    
+}
+
+#pr{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    margin-top: 0;
+    margin-left: 60px;
+    margin-bottom: 30px;
+    color: darkblue;
+}
+
+#hello{
+    margin-left: 150px;
+    color: antiquewhite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.myself{
+    border-style: outset;
+    border-radius: 20px;
+    border-right: 2px;
+    border-left: 2px;
+    text-decoration: underline;
+    text-decoration-color: cadetblue;
+    font-size: x-large;
+    text-align:left;
+    text-align-last: center;
+    text-indent: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.myself:hover{
+    background-color: aliceblue;
+}
+.material-icons{
+    color: black;
+}
+
+#logo2{
+    color: darkblue;
+   
+}
+
+.show2{
+    background-color: grey;
+    position: absolute;
+    top:0;
+    bottom: 0;
+    right: 0;
+    left:30%;
+}
+
+.tag{
+    text-align: center;
+    color: aliceblue;
+    font-style: italic;
+    font-size: 40px;
+}
+
+.button1{
+  
+   width: 370px;
+   height: 450px;
+    border-radius: 20px;
+    margin-left: 100px;
+   margin-top: 5px;
+    
+    
+}
+.img1{
+    margin-top: 10px;
+}
+
+
+.java{
+    
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 30px;
+   
+}
+
+.jp{
+    margin-top: 20px;
+    font-family:cursive;
+    font-size: x-large;
+    margin-bottom: 100px;
+}
+
+.button2{
+  
+    width: 370px;
+    height: 450px;
+     border-radius: 20px;
+     margin-left: 130px;
+     margin-top: 5px;
+
+     
+     
+ }
+ .img2{
+     margin-top: 10px;
+ }
+ 
+ 
+ .git{
+     
+     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     margin-top: 30px;
+    
+ }
+ 
+ .op{
+     margin-top: 20px;
+     font-family:cursive;
+     font-size: x-large;
+     margin-bottom: 100px;
+ }
+
+ .dot{
+    margin-top: 0px;
+    margin-left: 480px;
+    color: chartreuse;
+    font-size: 50px;
+ 
+    
+ }
+
+.konw{
+    margin-top: 0px;
+    margin-left: 470px;
+}
+
+.if{
+    margin-left: 100px;
+}
+
